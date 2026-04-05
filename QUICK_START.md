@@ -4,9 +4,11 @@
 
 ```bash
 git add .
-git commit -m "Add deployment configuration"
+git commit -m "Add deployment configuration with Node.js 20 support"
 git push origin main
 ```
+
+**Note**: The Node.js version has been updated to support all platforms including Vercel (which requires Node 20+).
 
 ## Step 2: Choose Your Deployment Platform
 

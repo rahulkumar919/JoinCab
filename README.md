@@ -14,7 +14,7 @@ Production-ready backend API for a cab booking platform built with Node.js, Expr
 
 ## Tech Stack
 
-- **Runtime**: Node.js 18.x
+- **Runtime**: Node.js 18.x or higher (20.x recommended)
 - **Framework**: Express.js
 - **Database**: MongoDB with Mongoose
 - **Authentication**: Firebase Admin SDK + JWT
@@ -27,7 +27,7 @@ Production-ready backend API for a cab booking platform built with Node.js, Expr
 
 ### Prerequisites
 
-- Node.js 18.x or higher
+- Node.js 18.x or higher (20.x recommended)
 - MongoDB (local or Atlas)
 - Firebase project
 - Razorpay account
